@@ -20,11 +20,11 @@ This project explores 5G network architecture, including the 5G Core (5GC), Serv
 
  > Terminal (Bash) :   Used for executing scripts and managing the development environment.
 
-ASSIGNMENT 1 :
+# ASSIGNMENT 1 :
 
 This project implements a variable load ramp mechanism to gradually increase or decrease system load and monitor its behavior over time. It analyzes and visualizes the load rate using graphical plots, helping evaluate system performance under dynamic load conditions.
 
-Features:
+## Features:
 
 * 5G Core Network (5GC) Architecture Analysis
 * Service-Based Architecture (SBA) Implementation Study
@@ -39,7 +39,7 @@ Features:
 * Comparison between 4G EPC and 5G Core Network
 * Performance and Scalability Evaluation
 
-Inference:
+## Inference:
 
 The Variable Load Ramp Implementation and Rate Analysis project demonstrates the ability to control and monitor load variations in a systematic manner. The results show that the load follows the defined ramp profile accurately, enabling smooth transitions, stable system operation, and effective performance analysis through graphical visualization of load and rate characteristics.
 
