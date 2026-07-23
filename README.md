@@ -42,3 +42,31 @@ Features:
 Inference:
 
 The Variable Load Ramp Implementation and Rate Analysis project demonstrates the ability to control and monitor load variations in a systematic manner. The results show that the load follows the defined ramp profile accurately, enabling smooth transitions, stable system operation, and effective performance analysis through graphical visualization of load and rate characteristics.
+
+
+# ASSIGNMENT 2
+
+This project demonstrates the deployment of the Open5GS 5G Core Network as Docker containers on Ubuntu Linux. It verifies successful registration of all Network Functions (NFs) with the Network Repository Function (NRF) and validates communication between core network components in a cloud-native environment.
+
+---
+
+## Features
+
+* Open5GS 5G Core Network Deployment
+* Docker-Based Containerized Architecture
+* Docker Compose Multi-Container Orchestration
+* Network Function Registration with NRF
+* MongoDB Integration for Subscriber Management
+* Deployment of AMF, SMF, UPF, AUSF, UDM, UDR, NSSF, and PCF
+* Service-Based Architecture (SBA) Support
+* Docker Log Verification
+* Network Function Communication Validation
+* Scalable Cloud-Native 5G Core Deployment
+* Ubuntu-Based Deployment Environment
+* Practical Understanding of Modern 5G Core Networks
+
+---
+
+## Inference
+
+The Open5GS Core Network deployment demonstrates that containerization using Docker provides a simple, scalable, and reliable method for deploying 5G Core Network Functions. All Network Functions successfully registered with the Network Repository Function (NRF), while Docker logs confirmed successful initialization and communication between services. The project highlights the effectiveness of cloud-native deployment techniques for modern 5G network infrastructure.
